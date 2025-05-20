@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+---
+name: 🐛 Bug Report
+about: Report a bug or unexpected behavior
+title: "[BUG] "
+labels: bug
+assignees: ''
+projects: ["shubham-zinrelo/projects/2"]
+---
 **Describe the bug**
 A clear and concise description of what the bug is.
 
