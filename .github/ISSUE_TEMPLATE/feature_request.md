@@ -3,6 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[BUG]"
 labels: enhancement
+projects: ["shubham-zinrelo/2"]
 assignees: ''
 
 ---
