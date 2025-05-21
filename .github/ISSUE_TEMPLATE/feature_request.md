@@ -1,9 +1,8 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[BUG]"
+title: "[Feat] - "
 labels: enhancement
-projects: ["shubham-zinrelo/2"]
 assignees: ''
 
 ---
